@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/github/scarletbone3/tests/branch/main/graph/badge.svg?token=VsDdcCR0QD)](https://codecov.io/github/scarletbone3/tests)
 # tests
 
 This template should help get you started developing with Vue 3 in Vite.
