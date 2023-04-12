@@ -1,0 +1,13 @@
+name: CI
+
+on: [push]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Node.js Setup
+      run: npm i
+    - name: Tests
+      run: npm run test
